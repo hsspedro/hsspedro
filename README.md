@@ -20,9 +20,9 @@
 
 ```C
 int main(void) {
- int i
  printf("Pedro Henrique Silva Souza")
  char languages[] = ["Python, C, JavaScript"]
+ int i
 
 for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++) {
         strcat(acknowledgements, "Back-end dev ");
