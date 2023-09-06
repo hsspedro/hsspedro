@@ -30,9 +30,8 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
 
 }
 ```
-
 - 📚 Estudando Ciência da Computação na [Cesar School](https://github.com/Abduzidos)
-- 📒 Estou atualmente estudando: Python, C<br>
+- 📒 Estou atualmente estudando: Python, C, JavaScript<br>
 - 🧠 Me pergunte sobre: `I.A.`, `Back-End` e `Hacking`<br>
 
 
