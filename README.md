@@ -20,9 +20,13 @@
 
 ```C
 int main(void) {
+ int i
  printf("Pedro Henrique Silva Souza")
- 
  char languages[] = ["Python, C, JavaScript"]
+
+for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++) {
+        strcat(acknowledgements, "Back-end dev ");
+        strcat(acknowledgements, college_learning[i]);
 
 }
 ```
@@ -44,6 +48,8 @@ int main(void) {
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
 
@@ -60,7 +66,7 @@ int main(void) {
 
 [![CRUD-Particular](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
-[![Aratuque](https://github-readme-stats.vercel.app/api/pin/?username=mateusioliveira&repo=MangueHeat&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/mateusioliveira/MangueHeat))
+[![ARecife](https://github-readme-stats.vercel.app/api/pin/?username=hsspedro&repo=Projectos-C.C&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/hsspedro/Projectos-C.C))
 [![Coffee-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
 
 ## Most Useds languages
