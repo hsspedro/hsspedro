@@ -16,12 +16,12 @@
 
 ## <img width="45" alt="about" src="https://static.wikia.nocookie.net/boruto/images/0/03/Shikamaru_as_a_child.png/revision/latest?cb=20170915055205"> Sobre mim
 
-<img align="right" width="360" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJvcXI2NnJuOGlvaGVyZzlkaHZrcTNzd284ZG9jZ2tvdTdrZzlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpUgme1u6wgGHBK/giphy.gif" />
+<img align="right" width="443" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJvcXI2NnJuOGlvaGVyZzlkaHZrcTNzd284ZG9jZ2tvdTdrZzlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpUgme1u6wgGHBK/giphy.gif" />
 
 ```rust
 fn main() {
     let name = "Pedro Henrique Silva Souza";
-    let languages = ["Python", "C", "JavaScript"];
+    let languages = ["Python", "C", "Java", "Rust"];
     let mut acknowledgements = String::new();
 
     for language in &languages {
