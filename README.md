@@ -18,15 +18,17 @@
 
 <img align="right" width="335" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJvcXI2NnJuOGlvaGVyZzlkaHZrcTNzd284ZG9jZ2tvdTdrZzlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpUgme1u6wgGHBK/giphy.gif" />
 
-```C
-int main(void) {
- char name[] = "Pedro Henrique Silva Souza";
- char languages[] = ["Python, C, JavaScript"]
- int i
+```rust
+fn main() {
+    let name = "Pedro Henrique Silva Souza";
+    let languages = ["Python", "C", "JavaScript"];
+    let mut acknowledgements = String::new();
 
-for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++) {
-        strcat(acknowledgements, "Back-end dev ");
-        strcat(acknowledgements, college_learning[i]);
+    for language in &languages {
+        acknowledgements.push_str("Back-end dev ");
+        acknowledgements.push_str(language);
+        acknowledgements.push(' ');
+    }
 }
 ```
 - 📚 Estudando Ciência da Computação na [Cesar School](https://github.com/Abduzidos)
