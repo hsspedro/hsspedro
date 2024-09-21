@@ -57,6 +57,8 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
 
 ##
 
+<img src="https://skillicons.dev/icons?i=git,github,django,visualstudio,replit,html,css,js,rust,eclipse,java,c,py,sqlite" alt="skills logos" />
+
 <div>
   <a align="left" href="https://github.com/hsspedro">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hsspedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
