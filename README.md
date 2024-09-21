@@ -16,7 +16,7 @@
 
 ## <img width="45" alt="about" src="https://static.wikia.nocookie.net/boruto/images/0/03/Shikamaru_as_a_child.png/revision/latest?cb=20170915055205"> Sobre mim
 
-<img align="right" width="335" src="[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a8a5f02-b241-43e5-bd52-ec7460895326/dai9lnh-3059db38-4773-4697-b92f-839b488660dc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83YThhNWYwMi1iMjQxLTQzZTUtYmQ1Mi1lYzc0NjA4OTUzMjYvZGFpOWxuaC0zMDU5ZGIzOC00NzczLTQ2OTctYjkyZi04MzliNDg4NjYwZGMuZ2lmIn1dXX0.VnzO-7GCfFu8_1ar89afmJud76OUx8nv2K3e9CQytgE](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJvcXI2NnJuOGlvaGVyZzlkaHZrcTNzd284ZG9jZ2tvdTdrZzlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpUgme1u6wgGHBK/giphy.gif)" />
+<img align="right" width="335" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJvcXI2NnJuOGlvaGVyZzlkaHZrcTNzd284ZG9jZ2tvdTdrZzlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpUgme1u6wgGHBK/giphy.gif" />
 
 ```C
 int main(void) {
