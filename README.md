@@ -46,7 +46,11 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
   <img src="https://skillicons.dev/icons?i=c,java,spring,rust" alt="skills actively learning logos">
   <br>
 </div>
-
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsspedro&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+</div>
 <div>
   <a align="left" href="https://github.com/hsspedro">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hsspedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
