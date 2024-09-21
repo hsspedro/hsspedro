@@ -58,15 +58,11 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
   <img src="https://streak-stats.demolab.com?user=hsspedro&theme=radical" width="49%" alt="streaks graph" />
 </div> <br>
   
- ## Developer of:
+ ##  Projetos Destaque:
 
-[![CRUD-Particular](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
-[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
-[![ARecife](https://github-readme-stats.vercel.app/api/pin/?username=hsspedro&repo=Projectos-C.C&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]((https://github.com/hsspedro/Projectos-C.C))
-[![Coffee-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
-
-## Most Useds languages
-
-<a href="https://github.com/hsspedro">
-    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=hsspedro&layout=compact&theme=tokyonight"/>
-</a>
+  <a href="https://github.com/P-E-N-T-E-S/Kolekto" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Kolekto" width="49%" alt="Selenium Twitter Scraper"/>
+  </a>
+    <a href="https://github.com/P-E-N-T-E-S/Pris.ME" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&theme=radical&repo=Pris.ME" width="49%" alt="Selenium Twitter Scraper"/>
+  </a>
