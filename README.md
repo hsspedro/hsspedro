@@ -51,14 +51,12 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsspedro&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 </div>
-<div>
-  <a align="left" href="https://github.com/hsspedro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hsspedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/hsspedro">
-    <img align="rigth" height="160em" src="https://streak-stats.demolab.com?user=hsspedro&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&/">
-  </a>
-</div>
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=hsspedro&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hsspedro&theme=radical&show_icons=true&count_private=true" width="46%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=hsspedro&theme=radical" width="49%" alt="streaks graph" />
+</div> <br>
   
  ## Developer of:
 
