@@ -36,28 +36,16 @@ for (int i = 0; i < sizeof(college_learning) / sizeof(college_learning[0]); i++)
 
 
 ##
-
-### Top Languages and Tools:
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-
-##
-
-<img src="https://skillicons.dev/icons?i=git,github,django,visualstudio,replit,html,css,js,rust,spring,eclipse,java,c,py,sqlite" alt="skills logos" />
+<div align="center">
+  <h3> <strong> Linguagens, Frameworks, e Ferramentas </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,django,visualstudio,replit,html,css,js,rust,spring,eclipse,java,c,py,sqlite" alt="skills logos" />
+  
+  <br> 
+  <h2></h2>
+  <h3> <strong> Estudando Atualmente </strong></h3>
+  <img src="https://skillicons.dev/icons?i=c,java,spring,rust" alt="skills actively learning logos">
+  <br>
+</div>
 
 <div>
   <a align="left" href="https://github.com/hsspedro">
